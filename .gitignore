@@ -1,0 +1,17 @@
+node_modules/
+frontend/dist/
+backend/.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.env.*
+!.env.example
+data/*
+!data/.gitkeep
+*.db
+*.sqlite3
+.vscode/
+
+backend/data/
+Video.mp4
