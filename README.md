@@ -52,9 +52,13 @@ There is no local model file in this repository. When `GROQ_API_KEY` is configur
 
 ## Architecture
 
-## Architecture
+### Documentation
 
-![Northstar Data Analyst Architecture](docs/northstar_architecture.png)
+**Northstar_Data_Analyst_Architecture_Documentation.pdf**
+
+The complete architecture documentation is provided as a PDF file. GitHub may not display the PDF content directly in the repository preview.
+
+Please **download the PDF and open it locally** to view the complete documentation, including the system architecture, component details, data flow, API structure, security, and implementation details.
 
 ### Architecture Flow
 
